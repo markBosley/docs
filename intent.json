@@ -1,0 +1,22 @@
+{
+    "query": "how are you",
+    "prediction": {
+        "topIntent": "status",
+        "projectKind": "Conversation",
+        "intents": [
+            {
+                "category": "status",
+                "confidenceScore": 0.787593
+            },
+            {
+                "category": "joke",
+                "confidenceScore": 0.75004476
+            },
+            {
+                "category": "None",
+                "confidenceScore": 0
+            }
+        ],
+        "entities": []
+    }
+}
